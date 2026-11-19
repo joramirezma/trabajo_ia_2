@@ -1,0 +1,18 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos descargados (se obtienen con kagglehub desde el notebook)
+data/
+
+# Modelos / checkpoints de Keras
+*.keras
+*.h5
+
+# Sistema
+.DS_Store
+Thumbs.db
