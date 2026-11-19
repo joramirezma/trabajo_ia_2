@@ -1,0 +1,42 @@
+,dtype,tipo,valores_distintos,nulos
+city_zone,str,categórica nominal,6,0
+latitude,float64,numérica continua,100,0
+longitude,float64,numérica continua,100,0
+road_type,str,categórica nominal,4,0
+lanes,int64,numérica discreta,3,0
+speed_limit,int64,numérica discreta,3,0
+vehicle_count,int64,numérica continua,1297,0
+average_speed,float64,numérica continua,699,0
+heavy_vehicle_count,int64,numérica continua,178,0
+motorcycle_count,int64,numérica continua,311,0
+public_transport_count,int64,numérica continua,118,0
+traffic_density,float64,numérica continua,1200,0
+queue_length,float64,numérica continua,1128,0
+average_wait_time,float64,numérica continua,437,0
+hour,int64,numérica discreta,24,0
+day_of_week,int64,numérica discreta,7,0
+is_weekend,int64,binaria,2,0
+is_holiday,int64,binaria,2,0
+rush_hour,int64,binaria,2,0
+peak_period,str,categórica nominal,5,0
+temperature,float64,numérica continua,298,0
+rainfall_mm,float64,numérica continua,115,0
+visibility_km,float64,numérica continua,79,0
+air_quality_index,int64,numérica continua,119,0
+weather_condition,str,categórica nominal,4,0
+nearby_school,int64,binaria,2,0
+nearby_hospital,int64,binaria,2,0
+nearby_market,int64,binaria,2,0
+construction_activity,int64,binaria,2,0
+road_condition,str,categórica ordinal,3,0
+parking_occupancy,float64,numérica continua,889,0
+public_event,int64,binaria,2,0
+accident_reported,int64,binaria,2,0
+traffic_camera_count,int64,numérica discreta,4,0
+iot_sensor_health,str,categórica nominal,2,0
+signal_cycle_seconds,int64,numérica discreta,2,0
+green_light_duration,int64,numérica discreta,26,0
+emergency_vehicle_detected,int64,binaria,2,0
+emission_estimate,float64,numérica continua,4291,0
+fuel_waste_estimate,float64,numérica continua,2764,0
+congestion_level,str,"objetivo (ordinal, 4 clases)",4,0

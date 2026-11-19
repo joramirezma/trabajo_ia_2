@@ -1,0 +1,9 @@
+caso,registros,variables,ED,OUTLIERS,BALANCEO,origen
+1,4445,56,NO,NO,NO,X_train del caso 1 supervisado (sin congestion_level)
+2,12444,56,NO,NO,SI,X_train del caso 2 supervisado (sin congestion_level)
+3,4445,56,NO,SI,NO,X_train del caso 3 supervisado (sin congestion_level)
+4,12444,56,NO,SI,SI,X_train del caso 4 supervisado (sin congestion_level)
+5,4445,56,SI,NO,NO,X_train del caso 5 supervisado (sin congestion_level)
+6,12444,56,SI,NO,SI,X_train del caso 6 supervisado (sin congestion_level)
+7,4445,56,SI,SI,NO,X_train del caso 7 supervisado (sin congestion_level)
+8,12444,56,SI,SI,SI,X_train del caso 8 supervisado (sin congestion_level)

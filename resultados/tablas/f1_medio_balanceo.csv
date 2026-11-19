@@ -1,0 +1,5 @@
+algoritmo,Desbalanceado (NO),Balanceado (SI)
+Árbol de decisión,0.9565,0.9372
+KNN,0.8611,0.847
+SVM,0.924,0.9058
+Red neuronal,0.9461,0.9302

@@ -1,0 +1,33 @@
+caso,algoritmo,reg 385 (real Severe),reg 427 (real High),reg 556 (real Low)
+1,KNN,Severe,High,Low
+1,Red neuronal,Severe,High,Low
+1,SVM,Severe,High,Low
+1,Árbol de decisión,Severe,High,Low
+2,KNN,Severe,Severe,Low
+2,Red neuronal,Severe,High,Low
+2,SVM,High,High,Low
+2,Árbol de decisión,Severe,Severe,Low
+3,KNN,Severe,High,Low
+3,Red neuronal,Low,Severe,Low
+3,SVM,Low,High,Low
+3,Árbol de decisión,Severe,Severe,Low
+4,KNN,Severe,Severe,Low
+4,Red neuronal,Severe,High,Low
+4,SVM,Low,High,Low
+4,Árbol de decisión,Severe,Severe,Low
+5,KNN,Severe,High,Low
+5,Red neuronal,Severe,High,Low
+5,SVM,Severe,High,Low
+5,Árbol de decisión,Severe,High,Low
+6,KNN,Severe,High,Low
+6,Red neuronal,Severe,High,Low
+6,SVM,Low,High,Low
+6,Árbol de decisión,Severe,Severe,Low
+7,KNN,Severe,High,Low
+7,Red neuronal,Severe,High,Low
+7,SVM,Low,High,Low
+7,Árbol de decisión,Severe,Severe,Low
+8,KNN,Severe,High,Low
+8,Red neuronal,Severe,High,Low
+8,SVM,Low,High,Low
+8,Árbol de decisión,Severe,Severe,Low

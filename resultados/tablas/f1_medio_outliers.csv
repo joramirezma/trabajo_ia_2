@@ -1,0 +1,5 @@
+algoritmo,Sin outliers (NO),Con outliers (SI)
+Árbol de decisión,0.9476,0.9461
+KNN,0.8551,0.853
+SVM,0.9309,0.899
+Red neuronal,0.943,0.9332

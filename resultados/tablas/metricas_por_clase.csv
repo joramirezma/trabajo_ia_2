@@ -1,0 +1,129 @@
+,caso,algoritmo,clase,recall,precision,f1
+0,1,Árbol de decisión,Low,0.994,0.9851,0.9896
+1,1,Árbol de decisión,Moderate,0.8854,0.9444,0.914
+2,1,Árbol de decisión,High,0.9895,0.94,0.9641
+3,1,Árbol de decisión,Severe,0.9474,1.0,0.973
+4,1,KNN,Low,0.991,0.9692,0.98
+5,1,KNN,Moderate,0.7292,0.9091,0.8092
+6,1,KNN,High,0.9895,0.8952,0.94
+7,1,KNN,Severe,0.9368,1.0,0.9674
+8,1,SVM,Low,0.994,0.9896,0.9918
+9,1,SVM,Moderate,0.9062,0.9355,0.9206
+10,1,SVM,High,0.9789,0.9394,0.9588
+11,1,SVM,Severe,0.9579,1.0,0.9785
+12,1,Red neuronal,Low,0.9865,0.9895,0.988
+13,1,Red neuronal,Moderate,0.9062,0.8878,0.8969
+14,1,Red neuronal,High,0.9684,0.9485,0.9583
+15,1,Red neuronal,Severe,0.9684,0.9892,0.9787
+16,2,Árbol de decisión,Low,0.97,0.9863,0.9781
+17,2,Árbol de decisión,Moderate,0.8854,0.8095,0.8458
+18,2,Árbol de decisión,High,0.9579,0.9479,0.9529
+19,2,Árbol de decisión,Severe,0.9684,0.9583,0.9634
+20,2,KNN,Low,0.952,0.9784,0.965
+21,2,KNN,Moderate,0.8229,0.7054,0.7596
+22,2,KNN,High,0.9684,0.9293,0.9485
+23,2,KNN,Severe,0.9579,0.9785,0.9681
+24,2,SVM,Low,0.9565,0.9984,0.977
+25,2,SVM,Moderate,0.9792,0.752,0.8507
+26,2,SVM,High,0.9789,0.8857,0.93
+27,2,SVM,Severe,0.8842,1.0,0.9385
+28,2,Red neuronal,Low,0.9775,0.9939,0.9856
+29,2,Red neuronal,Moderate,0.9375,0.8411,0.8867
+30,2,Red neuronal,High,0.9684,0.9485,0.9583
+31,2,Red neuronal,Severe,0.9684,0.9892,0.9787
+32,3,Árbol de decisión,Low,0.9895,0.9895,0.9895
+33,3,Árbol de decisión,Moderate,0.9062,0.9255,0.9158
+34,3,Árbol de decisión,High,0.9895,0.9126,0.9495
+35,3,Árbol de decisión,Severe,0.9263,0.9888,0.9565
+36,3,KNN,Low,0.9895,0.9706,0.98
+37,3,KNN,Moderate,0.7604,0.9012,0.8249
+38,3,KNN,High,0.9895,0.9216,0.9543
+39,3,KNN,Severe,0.9474,1.0,0.973
+40,3,SVM,Low,0.991,0.9664,0.9785
+41,3,SVM,Moderate,0.7917,0.9048,0.8444
+42,3,SVM,High,0.9789,0.8857,0.93
+43,3,SVM,Severe,0.8421,1.0,0.9143
+44,3,Red neuronal,Low,0.982,0.985,0.9835
+45,3,Red neuronal,Moderate,0.8854,0.8586,0.8718
+46,3,Red neuronal,High,0.9684,0.9388,0.9534
+47,3,Red neuronal,Severe,0.9474,0.989,0.9677
+48,4,Árbol de decisión,Low,0.9745,0.9893,0.9819
+49,4,Árbol de decisión,Moderate,0.9062,0.8365,0.87
+50,4,Árbol de decisión,High,0.9684,0.9293,0.9485
+51,4,Árbol de decisión,Severe,0.9474,0.9677,0.9574
+52,4,KNN,Low,0.9535,0.9785,0.9658
+53,4,KNN,Moderate,0.8229,0.7117,0.7633
+54,4,KNN,High,0.9684,0.92,0.9436
+55,4,KNN,Severe,0.9474,0.9783,0.9626
+56,4,SVM,Low,0.937,0.9812,0.9586
+57,4,SVM,Moderate,0.9062,0.6641,0.7665
+58,4,SVM,High,0.9789,0.9029,0.9394
+59,4,SVM,Severe,0.8632,1.0,0.9266
+60,4,Red neuronal,Low,0.967,0.9923,0.9795
+61,4,Red neuronal,Moderate,0.9271,0.7876,0.8517
+62,4,Red neuronal,High,0.9789,0.9208,0.949
+63,4,Red neuronal,Severe,0.9368,1.0,0.9674
+64,5,Árbol de decisión,Low,0.994,0.9851,0.9896
+65,5,Árbol de decisión,Moderate,0.8854,0.9444,0.914
+66,5,Árbol de decisión,High,0.9895,0.94,0.9641
+67,5,Árbol de decisión,Severe,0.9474,1.0,0.973
+68,5,KNN,Low,0.9625,0.9345,0.9483
+69,5,KNN,Moderate,0.5,0.5581,0.5275
+70,5,KNN,High,0.7684,0.7766,0.7725
+71,5,KNN,Severe,0.8947,0.9884,0.9392
+72,5,SVM,Low,0.97,0.9818,0.9759
+73,5,SVM,Moderate,0.8438,0.7941,0.8182
+74,5,SVM,High,0.9474,0.9375,0.9424
+75,5,SVM,Severe,0.9684,0.9583,0.9634
+76,5,Red neuronal,Low,0.9895,0.9865,0.988
+77,5,Red neuronal,Moderate,0.8646,0.9121,0.8877
+78,5,Red neuronal,High,0.9789,0.9029,0.9394
+79,5,Red neuronal,Severe,0.9368,0.9889,0.9622
+80,6,Árbol de decisión,Low,0.97,0.9863,0.9781
+81,6,Árbol de decisión,Moderate,0.8854,0.8095,0.8458
+82,6,Árbol de decisión,High,0.9579,0.9479,0.9529
+83,6,Árbol de decisión,Severe,0.9684,0.9583,0.9634
+84,6,KNN,Low,0.9265,0.9522,0.9392
+85,6,KNN,Moderate,0.6667,0.4923,0.5664
+86,6,KNN,High,0.6947,0.7416,0.7174
+87,6,KNN,Severe,0.8842,0.9882,0.9333
+88,6,SVM,Low,0.964,0.9742,0.9691
+89,6,SVM,Moderate,0.8542,0.7736,0.8119
+90,6,SVM,High,0.9579,0.9286,0.943
+91,6,SVM,Severe,0.8947,0.9551,0.9239
+92,6,Red neuronal,Low,0.9595,0.9846,0.9719
+93,6,Red neuronal,Moderate,0.8646,0.7477,0.8019
+94,6,Red neuronal,High,0.9684,0.92,0.9436
+95,6,Red neuronal,Severe,0.9474,0.9783,0.9626
+96,7,Árbol de decisión,Low,0.9895,0.9895,0.9895
+97,7,Árbol de decisión,Moderate,0.9062,0.9255,0.9158
+98,7,Árbol de decisión,High,0.9895,0.9126,0.9495
+99,7,Árbol de decisión,Severe,0.9263,0.9888,0.9565
+100,7,KNN,Low,0.964,0.9373,0.9505
+101,7,KNN,Moderate,0.5417,0.5591,0.5503
+102,7,KNN,High,0.7053,0.7614,0.7322
+103,7,KNN,Severe,0.8842,0.9767,0.9282
+104,7,SVM,Low,0.973,0.9558,0.9643
+105,7,SVM,Moderate,0.7604,0.7849,0.7725
+106,7,SVM,High,0.9684,0.902,0.934
+107,7,SVM,Severe,0.8211,0.9873,0.8966
+108,7,Red neuronal,Low,0.982,0.9864,0.9842
+109,7,Red neuronal,Moderate,0.8646,0.8557,0.8601
+110,7,Red neuronal,High,0.9789,0.9118,0.9442
+111,7,Red neuronal,Severe,0.9474,1.0,0.973
+112,8,Árbol de decisión,Low,0.9745,0.9893,0.9819
+113,8,Árbol de decisión,Moderate,0.9062,0.8365,0.87
+114,8,Árbol de decisión,High,0.9684,0.9293,0.9485
+115,8,Árbol de decisión,Severe,0.9474,0.9677,0.9574
+116,8,KNN,Low,0.9235,0.9521,0.9376
+117,8,KNN,Moderate,0.6354,0.4729,0.5422
+118,8,KNN,High,0.6947,0.7174,0.7059
+119,8,KNN,Severe,0.8842,0.9882,0.9333
+120,8,SVM,Low,0.9595,0.9624,0.961
+121,8,SVM,Moderate,0.7917,0.7379,0.7638
+122,8,SVM,High,0.9579,0.91,0.9333
+123,8,SVM,Severe,0.8526,0.9529,0.9
+124,8,Red neuronal,Low,0.9505,0.9875,0.9687
+125,8,Red neuronal,Moderate,0.875,0.7059,0.7814
+126,8,Red neuronal,High,0.9579,0.91,0.9333
+127,8,Red neuronal,Severe,0.9474,0.9783,0.9626

@@ -1,0 +1,5 @@
+algoritmo,Sin ED (NO),Con ED (SI)
+Árbol de decisión,0.9469,0.9469
+KNN,0.9191,0.789
+SVM,0.9253,0.9046
+Red neuronal,0.9472,0.929

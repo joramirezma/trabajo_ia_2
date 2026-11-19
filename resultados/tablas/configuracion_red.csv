@@ -1,0 +1,4 @@
+arquitectura,parámetros,épocas,f1_val,acc_val
+A: 64 · L2 · Dropout 0.2,3908,55,0.9337,0.9569
+B: 128-64 · L2 · BN · Dropout 0.3,16580,25,0.928,0.9538
+C: 256-128-64 · L2 · BN · Dropout 0.4,57796,27,0.9277,0.9527

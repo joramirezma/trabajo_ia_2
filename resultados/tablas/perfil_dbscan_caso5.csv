@@ -1,0 +1,4 @@
+cluster,vehicle_count,average_speed,traffic_density,queue_length,average_wait_time,heavy_vehicle_count,hour,rush_hour,lanes,parking_occupancy,n,clase_real_mayoritaria
+-1,804.96,40.301,96.948,114.694,11.397,38.919,12.132,0.248,2.803,38.693,1022,Low (40 %)
+0,277.106,53.201,34.449,15.618,1.555,13.402,11.116,0.169,2.734,41.298,3300,Low (78 %)
+1,179.992,52.741,22.138,14.993,1.507,8.593,6.512,0.008,2.691,53.384,123,Low (99 %)
