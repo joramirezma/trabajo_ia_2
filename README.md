@@ -40,3 +40,11 @@ python -m venv .venv
 ```
 
 Si se edita el código, se modifica `src/practica2.py` y se regenera el `.ipynb` con jupytext.
+
+## Antes de entregar
+
+1. Completar `INTEGRANTES`, `CEDULA` y `URL_VIDEO` al inicio de `informe/generar_informe.py` y ejecutarlo
+   para regenerar el PDF (los campos vacíos aparecen resaltados en amarillo).
+2. Completar los nombres en la tabla de la primera celda del notebook (`src/practica2.py` y el `.ipynb`).
+3. Crear el ZIP: `.\.venv\Scripts\python.exe informe\empaquetar_entrega.py`
+   → `entrega/practica2-grupo-01-equipo-07.zip` (se niega a crearlo si quedan datos pendientes).

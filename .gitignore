@@ -16,3 +16,6 @@ data/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# ZIP de entrega (se genera con informe/empaquetar_entrega.py)
+entrega/

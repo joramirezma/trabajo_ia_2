@@ -861,7 +861,8 @@ def graficar_arbol(modelo, d, num, profundidad_visible=3):
     plot_tree(modelo, max_depth=profundidad_visible, feature_names=d["columnas"], class_names=list(modelo.classes_),
               filled=False, impurity=True, proportion=True, rounded=True, fontsize=8, ax=ax)
     ax.set_title(f"Árbol de decisión solución (Gini, max_depth={modelo.get_depth()}) — primeros "
-                 f"{profundidad_visible} niveles — {d['etiqueta']}")
+                 f"{profundidad_visible} niveles — {d['etiqueta']}\n"
+                 f"value = proporción de clases en el orden {list(modelo.classes_)}", fontsize=11)
     guardar_figura(fig, f"sup_caso{num}_arbol")
     reglas = export_text(modelo, feature_names=d["columnas"], max_depth=profundidad_visible, decimals=2)
     print(reglas)
